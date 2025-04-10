@@ -1,0 +1,44 @@
+Shield
+1
+Abjuration
+1 Reaction
+0
+1
+0
+An invisible barrier of magical force appears and protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from magic missile.
+
+* - which you take when you are hit by an attack or targeted by the magic missile spell
+\EOD
+Magic Missile
+1
+Evocation
+1 Action
+120
+0
+0
+You create three glowing darts of magical force. Each dart hits a creature of your choice that you can see within range. A dart deals 1d4 + 1 force damage to its target. The darts all strike simultaneously, and you can direct them to hit one creature or several.
+At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the spell creates one more dart for each slot level above 1st.
+\EOD
+Bless
+1
+Enchantment
+1 Action
+30
+10
+1
+You bless up to three creatures of your choice within range. Whenever a target makes an attack roll or a saving throw before the spell ends, the target can roll a d4 and add the number rolled to the attack roll or saving throw.
+At Higher Levels: When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
+\EOD
+Absorb Elements
+1
+Abjuration
+1 Reaction*
+0
+1
+0
+The spell captures some of the incoming energy, lessening its effect on you and storing it for your next melee attack. You have resistance to the triggering damage type until the start of your next turn. Also, the first time you hit with a melee attack on your next turn, the target takes an extra 1d6 damage of the triggering type, and the spell ends.
+
+At Higher Levels. When you cast this spell using a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each slot level above 1st.
+
+* - which you take when you take acid, cold, fire, lightning, or thunder damage
+\EOD

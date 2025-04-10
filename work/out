@@ -1,0 +1,37 @@
+*FILTER*
+No Spells!
+*XPTO*
+Unknown command!
+*LOAD*
+<<<LOAD>>>
+Invalid command arguments!
+*LOAD*
+<<<LOAD fav.fav >>>
+Invalid file or error opening file!
+*LOAD*
+<<<LOAD spl5_in_06.txt>>>
+0 spells successfully loaded.
+*UPDATE*
+<<<UPDATE "Magic Missile teste teste>>>
+Invalid command arguments!
+*UPDATE*
+<<<UPDATE "Magic Missile" 1 bonus action>>>
+No such spell exists!
+*DELETE*
+++++DELETE "Imaginary Spell"++++
+No such spell exists!
+Invalid command arguments!
+*DELETE*
+++++DELETE "Absorb Elements"++++
+No such spell exists!
+Invalid command arguments!
+*DELETE*
+++++DELETE "Invisibility"++++
+No such spell exists!
+Invalid command arguments!
+*SAVE*
+*DELETE*
+++++DELETE "Shield"++++
+No such spell exists!
+Invalid command arguments!
+*SAVE*

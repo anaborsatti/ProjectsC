@@ -1,0 +1,13 @@
+FILTER lvl 1 9
+XPTO feiticos.sav
+LOAD
+LOAD fav.fav Invalid file or error opening file!
+LOAD spl5_in_07.txt
+UPDATE "Magic Missile teste teste
+UPDATE "Magic Missile" 1 bonus action
+DELETE "Imaginary Spell"
+DELETE "Absorb Elements"
+DELETE "Invisibility"
+SAVE feiticos2.sav
+DELETE "Shield"
+SAVE feiticos2.sav

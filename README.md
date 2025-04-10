@@ -1,2 +1,4 @@
 # ProjectsC
 The repository contains the imperative programming projects (Programming Projects) and the C programming lab (C Programming Lab), all implemented in C.
+
+Through the projects I’ve developed, I’ve gained strong skills in **C programming**, mastering everything from **dynamic memory allocation** to the use of **dynamic data structures** like **linked lists** and **dynamic arrays**. I also deepened my knowledge of **dynamic programming**, applying techniques to optimize complex algorithms. Additionally, I enhanced my debugging skills using tools like **gdb** and worked with **graphical programming** using **Processing**, creating **simple games** and exploring **object-oriented programming**. These projects provided me with practical understanding of the **software development lifecycle** and the main differences between C and Processing, solidifying my expertise in **fundamental algorithms** and **graphical programming**.
